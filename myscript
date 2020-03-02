@@ -1,0 +1,83 @@
+line
+0 0 0 50 0 0
+line
+0 0 0 25 50 0
+line
+50 0 0 25 50 0
+line
+0 0 0 25 25 25
+line
+50 0 0 25 25 25
+line
+25 50 0 25 25 25
+line
+0 0 0 120 0 0
+line
+0 0 0 60 120 0
+line
+120 0 0 60 120 0
+line
+0 0 0 60 60 60
+line
+120 0 0 60 60 60
+line
+60 120 0 60 60 60
+
+line
+0 0 0 20 0 0
+line
+0 0 0 10 20 0
+line
+20 0 0 10 20 0
+line
+0 0 0 10 10 10
+line
+20 0 0 10 10 10
+line
+10 20 0 10 10 10
+
+line
+0 0 0 80 0 0
+line
+0 0 0 40 80 0
+line
+80 0 0 40 80 0
+line
+0 0 0 40 40 40
+line
+80 0 0 40 40 40
+line
+40 80 0 40 40 40
+
+
+save
+pic.png
+ident
+scale
+4 4 4
+apply
+save
+pic.png
+ident
+move
+150 0 0
+apply
+save
+pic.png
+ident
+rotate
+z 90
+rotate
+x 40
+rotate
+y 50
+apply
+save
+pic.png
+ident
+rotate
+y 50
+apply
+display
+save
+pic.png
